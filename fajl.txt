@@ -1,1 +1,3 @@
-szia, ez itt egy txt.
+echo szia, ez itt egy txt.?????
+echo szia, ez itt egy alma ?????
+
